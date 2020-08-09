@@ -1,0 +1,24 @@
+name: "yanWang-website"
+output_dir: "."
+navbar:
+  title: "Yan Wang's Website"
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+      
+    - text: "GitHub"
+      icon: fa-github
+      href: https://github.com/Vialawaila
+      
+    - text: "GIS Work"
+      icon: fa-check-circle
+      href: geog176A.html
+
+    - text: "CV/Resume"
+      icon: fa-id-card-o
+      href: YanWang.html
+output:
+  html_document:
+    theme: sandstone
+    

@@ -1,0 +1,11 @@
+---
+title: "Projects"
+---
+
+In the summer of 2020 I took GEOG 176A, a GIS course based in R. I worte some code, and did some cool data science.I gradually learned how to review Rmarkdown syntax in both knit and Rmd format. I build my own website including text, images, hyperlinks, web theme, navbar, and icons. I developed my own content in my website with my personal information and published them on Github. It was really new to me, but I enjoyed this process a lot.
+
+## [Building a project website](index.html)
+
+- In this assignment we built a simple website with Github Pages 
+- Includes basic information and a github repo for access to all the code.
+- Look at how high quality my work is! <i class="fa fa-american-sign-language-interpreting" aria-hidden="true"></i>

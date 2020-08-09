@@ -1,0 +1,63 @@
+---
+title: "Yan Wang"
+author: "Yan Wang"
+date: "2020/8/9"
+output: html_document
+---
+<i class="fa fa-address-card-o" aria-hidden="true"></i>Sex: Female      <i class="fa fa-birthday-cake" aria-hidden="true"></i>DOB: 04/30/2001        <i class="fa fa-map-o" aria-hidden="true"></i> City of Birth: Beijing       <i class="fa fa-flag" aria-hidden="true"></i>Nationality: China
+  <i class="fa fa-envelope-o" aria-hidden="true"></i>Email: yanwang@ucsb.edu
+
+## Education background
+- University of California, Santa Barbara, **September 2019 to current**
+- The Second High School Attached to Beijing Normal University, **September 2016 to June 2019<i class="fa fa-graduation-cap" aria-hidden="true"></i>**
+
+## Experience List
+1.	August 80th-a flower shop              **Grade 11     4hrs/wk     4wks/yr**
+
+Freelance writer; Wrote articles on the charity activity organized by the shop to help children with autism; Got 30,000 page views each article & raised 38,000 RMB
+
+2.	The Desire Path Business Competition   **Grade 10-11 10hrs/wk  15wks/yr**
+
+Co-organizer; Recruited competition organizing committee and recruited competitors across schools & raised 20,000RMB initial fund; Invited the professional judges
+
+3.	Exhibition of Paintings Drawn by Children with Autism **Grade 115hrs/wk 4wks/yr**
+
+Volunteer; Numbered paintings; Input painting info into electronic system; Took HD photos & wrote stories for exhibited paintings to attract customers
+
+4.	2017 Citibank Young Talent Program     **Grade 10     12hrs/wk     2wks/yr**
+
+Participant & Team Representative; Learned basic financial knowledge like financial modeling &analysis; Discussed and completed the team project& gave a presentation as representative
+
+5.	North American University Investigation   **Grade 11-present 10hrs/wk 32wks/yr**
+
+Founder &President; Researched North American University information through internet and share with classmates; invited schoolmates studying in the US to share experience
+
+6.	National Speech & Debate Association China  **Grade 9-11 4hrs/wk 18wks/yr**
+
+Debater; Participated in debates during competition seasons; conducted simulated debates across schools; collected, revised& finalized evidence & arguments
+
+7.	World Youth Economic Forum           **Grade 10     30hrs/wk     1wk/yr**
+
+Delegate; Acted as a tobacconist illustrating health& interest RLAT; wrote a position paper; proposed medical insurance not covering diseases linked to smoking
+
+8.	Glass Shop-Family owned       **Grade 9-present     10hrs/wk     40wks/yr**
+
+Intern; Arranged product display for new stock; Wrote articles for social media advertising; proposed glasses marketing ideas to expand sales; analyzed income & expenses
+
+9.	Special Notebooks Making     **Grade 10-present     10hrs/wk     48wks/yr**
+
+Designer; R Recorded daily life by drawing cartoons&writing down words in well-designed notebooks; Post them on Weibo& got 3000+ views; made self-management plans
+
+10.	Class Wechat Public Account Operation **Grade 10-present 7hrs/wk    36wks/yr**
+
+Co-operator; Published articles on the school life to show class culture to the public; summarized homework for students& sent blessings on the special days
+
+## Awards
+- **Grade 10 &11** Merit Student, the Second High School Attached to Beijing Normal University
+
+- **Grade 10** First Prize in the Fourth School “Green Harmony” Themed Composition Contest
+- **Grade 10** Awarded Delegate in 2017 World Youth Economic Forum (Shanghai)
+- **Grade 10** Selected Award Winner in the 10th Cross-Strait Composition Contest (High School Group), Beijing Haidian District Writer’ Association
+- **Grade 10** Certificate of Completion, Fourth Beijing High School Business Challenge
+- **Grade 10** Certificate of Participation in 2017 Citibank Young Talent Program
+- **Grade 10 & 11** Certificate of Participation in National High School Academic Debate and Speech Tournament

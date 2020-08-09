@@ -1,0 +1,17 @@
+---
+title: "About Me"
+---
+  
+<center>
+# Hi, I'm Yan Wang.
+</center>
+I am [Yan Wang](https://github.com/Vialawaila) from Beijing, China<i class="fas fa-home"></i> .
+I am now in Beijing but live based on Pacific Time Zone. Although most my courses this quarter are prerecorded, I still want to keep the jet lag to avoid assignment overdue. It is my pleasure to spend this special quarter with you. Nice to meet you! 
+
+I am a second-year economics and geography double major student. I declared my second major, geography with a geographic information science emphasis, in spring 2020. That thought, major in geography, did cross my mind earlier, and I was encouraged and finally put it into action after took several geography courses at UCSB. I enjoy both of my majors.
+
+I am a big fan of rock music. It started three years ago when I accidentally visited an exhibition of The Beatles. I suddenly fell in love with rock music after listened to a few albums. I also watching anime and playing badminton in my free time. I appreciate the opportunity to try something new, so I have lots of hobbies. Sometimes I make bullet journals in my spare time as well.
+
+It is a special and challenging quarter that different from the previous in-person lectures. It is new for me and for everyone, but I believe we have the ability to handle it. I'm so excited about this quarter, and I hope we can have a wonderful time together.
+
+![](./img/pic.jpg)
