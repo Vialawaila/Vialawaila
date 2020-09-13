@@ -8,8 +8,11 @@ output: html_document
   <i class="fa fa-envelope-o" aria-hidden="true"></i>Email: yanwang@ucsb.edu
 
 ## Education background
-- University of California, Santa Barbara, **September 2019 to current**
-- The Second High School Attached to Beijing Normal University, **September 2016 to June 2019<i class="fa fa-graduation-cap" aria-hidden="true"></i>**
+University of California, Santa Barbara, **In Progress**
+- Economic B.A.
+- Geography with GIS Emphasis
+- College of Letters and Science Honors Program
+ 
 
 ## Experience List
 1.	August 80th-a flower shop              **Grade 11     4hrs/wk     4wks/yr**
